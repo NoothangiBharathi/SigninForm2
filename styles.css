@@ -1,0 +1,103 @@
+.navbar{
+    height: 80px;
+    width: 1500px;
+    background-color: black;
+}
+.section1 h3{
+    margin-left: 80px;
+    color: white;
+    padding: 30px;
+}
+  .main{
+    display: flex;
+    margin-left: 40px;
+  }
+  .main .section2{
+        padding-left: 80px;
+  }
+   .form1{
+    padding: 10px;
+     
+   }
+   .form2{
+    margin-left: 10px;
+   }
+   .button2 button{
+    padding: 5px;
+    background-color: transparent;
+    text-align: center;
+    border-radius: 10px;
+    color: red;
+   }
+   .button2{
+    padding: 5px;
+    margin-left: 70px;
+   }
+   p{
+    font-weight: bold;
+    padding: 2px;
+   }
+.icons1 button{
+     height: 40px;
+     width: 160px;
+    font-size: 40px;
+    border-radius: 20px;
+    background-color: aqua;
+}
+.button1 button{
+    background-color: aqua;
+    height: 30px;
+    width: 100px;
+    border-color: white;
+    color: white;
+    border-radius: 10px;
+}
+   .section1 .button1{
+    margin-left: 40px;
+   }
+   .section2 h2{
+    margin-left: 60px;
+    
+   }
+   .form1 input{
+    border-radius: 10px;
+    height: 20px;
+    text-align: center;
+   }
+   .form2 input{
+    border-radius: 10px;
+    height: 20px;
+    text-align: center;
+    }
+    .section2{
+        margin-left: 170px;
+    }
+    .navbar2{
+        height: 80px;
+        width: 1500px;
+        background-color: black;   
+    }
+    .section1{
+        
+        height: 700px;
+        width: 650px;
+        text-align: center;
+        background-color: teal;
+    
+    }
+    .main-div{
+        height: 800px;
+        width: 1300px;
+        
+    }
+    p{
+        color: black;
+        margin-left: 20px;
+    }
+    .section1{
+        margin-bottom: 50px;
+    }
+.section2{
+    margin-top: 100px;
+}
+   
